@@ -54,3 +54,6 @@
 	path = third_party/fillp-sheep
 	url = https://github.com/fillthepipe/fillp-sheep.git
 	ignore = dirty
+[submodule "third_party/copt"]
+	path = third_party/copt
+	url = https://github.com/mhhuang95/copt
